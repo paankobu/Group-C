@@ -1,6 +1,6 @@
 # About KFT
 
-<img src="assets/kgt-logo1.png" width="250" height="auto" />
+<img src="assets/kft-logo1.png" width="250" height="auto" />
 
 
 KFT is a company that specializes in machine learning and artificial intelligence based projects. We provide complete software solutions that nourishes the performance of an organization with our revloutionary system solutions.
