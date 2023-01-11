@@ -13,7 +13,8 @@ A specific algorithm is used to learn to filter and classify these messages. The
 algorithms are used for classifying object into different classes which provided with 
 input and output to have a self-learning program to complete the task given. The 
 message will be classified as spam or ham. This algorithm is used to predict the 
-probability and classification of data outcome.  
+probability and classification of data outcome.    
+
 
   
 ## Client:  Robert Bosch Sdn Bhd  
