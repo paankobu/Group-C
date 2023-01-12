@@ -24,7 +24,10 @@ After the system has been completed, we tested the accuracy of the system. The s
 
 3.0 ORIGINAL AND ACTUAL SCHEDULE
 
-The projects members mostly stick to the Gantt Chart scheduled so the actual progress fits the original schedule with exception in the designing phases where we are slightly late than expected by a day.
+![image](https://user-images.githubusercontent.com/121605773/211993356-a933c987-7da8-4f7c-9a5d-4e8812b123ff.png)
+
+
+The projects members mostly stick to the Gantt Chart scheduled so the actual progress fits the original schedule with exception in the designing phases where we are slightly late than expected by few days.
 
 4.0 ORIGINAL AND ACTUAL BUDGET
 
