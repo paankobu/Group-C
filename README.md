@@ -38,3 +38,20 @@ https://github.com/paankobu/Group-C/blob/fa967cef29d8d269bf955784590322fc0bbb2f3
 
 Project Closing indicate the end of the project lifecycle where the project need to document closing document and lesson learnt report.
 
+# SAMPLE RESULT
+Output 1: The output shows the model predicting an email text that is supposed to be ham
+
+The image 1 shows the user entering an email text and clicking predict button
+
+![image](https://user-images.githubusercontent.com/121605773/211955534-3c0cbc29-34e3-41dc-a728-a76d901a29c1.png)
+
+
+Output 2: The output shows the model predicting an email text that is supposed to be spam
+The image 3 shows the user entering an email text and clicking predict button
+
+![image](https://user-images.githubusercontent.com/121605773/211955693-c0a4e328-3391-4649-b5a9-d09d4fd18f9a.png)
+
+![image](https://user-images.githubusercontent.com/121605773/211955720-f7dc0e6c-5cf3-453c-8bd9-ee452442850c.png)
+
+
+
